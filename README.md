@@ -10,21 +10,21 @@ To set up the database there is a file database.sql that *should* have all of th
 
 ## Screenshots
 
-!(Screenshot)[screenshots/scrsht01.png]
-!(Screenshot)[screenshots/scrsht02.png]
-!(Screenshot)[screenshots/scrsht03.png]
-!(Screenshot)[screenshots/scrsht04.png]
-!(Screenshot)[screenshots/scrsht05.png]
-!(Screenshot)[screenshots/scrsht06.png]
-!(Screenshot)[screenshots/scrsht07.png]
-!(Screenshot)[screenshots/scrsht08.png]
-!(Screenshot)[screenshots/scrsht09.png]
-!(Screenshot)[screenshots/scrsht10.png]
-!(Screenshot)[screenshots/scrsht11.png]
-!(Screenshot)[screenshots/scrsht12.png]
-!(Screenshot)[screenshots/scrsht13.png]
-!(Screenshot)[screenshots/scrsht14.png]
-!(Screenshot)[screenshots/scrsht15.png]
-!(Screenshot)[screenshots/scrsht16.png]
-!(Screenshot)[screenshots/scrsht17.png]
-!(Screenshot)[screenshots/scrsht18.png]
+![Screenshot](screenshots/scrsht01.png)
+![Screenshot](screenshots/scrsht02.png)
+![Screenshot](screenshots/scrsht03.png)
+![Screenshot](screenshots/scrsht04.png)
+![Screenshot](screenshots/scrsht05.png)
+![Screenshot](screenshots/scrsht06.png)
+![Screenshot](screenshots/scrsht07.png)
+![Screenshot](screenshots/scrsht08.png)
+![Screenshot](screenshots/scrsht09.png)
+![Screenshot](screenshots/scrsht10.png)
+![Screenshot](screenshots/scrsht11.png)
+![Screenshot](screenshots/scrsht12.png)
+![Screenshot](screenshots/scrsht13.png)
+![Screenshot](screenshots/scrsht14.png)
+![Screenshot](screenshots/scrsht15.png)
+![Screenshot](screenshots/scrsht16.png)
+![Screenshot](screenshots/scrsht17.png)
+![Screenshot](screenshots/scrsht18.png)
