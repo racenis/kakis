@@ -1,0 +1,69 @@
+#header {width: 100%; font-size: 12px; text-align: center; margin: 5px; margin-bottom: 0; padding: 5px; border: 1px solid #cc9900; max-width: 778px;}
+#footer {width: 100%; font-size: 12px; text-align: center; margin: 5px; margin-top: 0; padding: 5px; border: 1px solid #cc9900; max-width: 778px;}
+#stats {width: 100%; font-size: 12px; text-align: center; margin: 5px; margin-bottom: 0; padding: 5px; border: 1px solid #cc9900; max-width: 778px; line-height: 25px;}
+#stats img{ vertical-align: middle;}
+.resourcelist {font-size: 12px; text-align: center; margin: 5px; margin-bottom: 0; padding: 5px; border: 1px solid #cc9900; max-width: 572px; line-height: 25px; display: inline-block;}
+.resourcelist img{vertical-align: middle;}
+
+.egg {font-size: 14px; margin: 5px; margin-bottom: 0; padding: 5px; border: 1px solid #cc9900; max-width: 540px;}
+
+.leftbigtext {font-size: 20px; font-weight: bold;}
+.leftleveltext {font-size: 30px; font-weight: bold;}
+
+.side {display: inline-block; border: 1px solid #cc9900; margin: 5px; padding: 5px; height: 420px; vertical-align: top;}
+#left {width: 200px; margin-right: 0; text-align: center;}
+#right {width: 562px; margin-left: 0; overflow-y: auto; position: relative;}
+#full {width: auto; display: block;}
+
+#right table {width: 100%;}
+
+.center {display: block; text-align: center; width: 100%;}
+.right {display: block; text-align: right; width: 100%;}
+
+form p{margin-top: 5px; margin-bottom: 5px;}
+
+.building {position: absolute;}
+.buildingtext {position: absolute; padding: 2px; background-color: #e9dfd0; border: 1px solid #cc9900; width: 100px; text-align: center;}
+#building1 {left: 280px; bottom: 240px;}
+#buildingtext1 {left: 280px; top: 166px;}
+#building2 {left: 40px; top: 220px;}
+#buildingtext2 {left: 40px; top: 306px;}
+#building3 {left: 20px; bottom: 230px;}
+#buildingtext3 {left: 20px; top: 176px;}
+#building4 {left: 130px; bottom: 190px;}
+#buildingtext4 {left: 125px; top: 216px;}
+#building5 {left: 400px; bottom: 290px;}
+#buildingtext5 {left: 400px; top: 116px;}
+#building6 {left: 420px; bottom: 70px;}
+#buildingtext6 {left: 420px; top: 336px;}
+
+.city {position: absolute;}
+.citytext {position: absolute; padding: 2px; background-color: #e9dfd0; border: 1px solid #cc9900; width: 100px; text-align: center;}
+#city1 {left: 25px; top: 205px;}
+#citytext1 {left: 10px; top: 270px;}
+#city2 {left: 125px; top: 245px;}
+#citytext2 {left: 110px; top: 312px;}
+#city3 {left: 275px; top: 215px;}
+#citytext3 {left: 260px; top: 285px;}
+#city4 {left: 452px; top: 148px;}
+#citytext4 {left: 440px; top: 220px;}
+#city5 {left: 485px; top: 262px;}
+#citytext5 {left: 464px; top: 330px;}
+#city6 {left: 363px; top: 332px;}
+#citytext6 {left: 350px; top: 400px;}
+#city7 {left: 150px; top: 175px;}
+#citytext7 {left: 135px; top: 305px;}
+
+
+.makeform input{float: right; margin-left: 10px;}
+
+.smallpic {float: left; width: 100px; height: 100px; padding-right: 10px;}
+.makebutton {float: right;}
+
+a:link {color: #663300;}
+a:visited {color: #663300;}
+a:hover {color: #cc9900;}
+
+.worldthing {padding: 0; margin: 0; display: inline-block; position: relative;}
+.worldtext {position: absolute; padding: 2px; background-color: #e9dfd0; border: 1px solid #cc9900; width: 20px; height: 10px; text-align: center; line-height: 10px; left: 30px; bottom: 5px;}
+.worldtext a {text-decoration: none;}

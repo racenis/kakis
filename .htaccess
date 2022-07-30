@@ -1,0 +1,17 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !favicon.ico$
+
+
+RewriteRule ^([a-zA-Z0-9]+)$ index.php?view=$1
+RewriteRule ^([a-zA-Z0-9]+)/$ index.php?view=$1
+
+RewriteRule ^([^/]+)/([^/]+)/?$ index.php?view=$1&id=$2 [L,QSA] 
+#RewriteRule ^([^/]+)/?$ index.php?view=$1 [L,QSA] 
+
+
+
+#RewriteRule .* index.php/$0 [PT]
+
